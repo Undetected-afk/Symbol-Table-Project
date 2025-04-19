@@ -18,7 +18,9 @@ Users can update the value of declared variables, and the program will print the
 
 ### Program Run:
 
-=== Variable Declaration Phase === How many variables do you want to declare? 3
+=== Variable Declaration Phase === 
+
+How many variables do you want to declare? 3
 
 Enter variable declaration (format: name type value)
 
